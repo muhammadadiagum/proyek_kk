@@ -22,5 +22,5 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Aset lokal (materi tugas, tidak untuk repo)
+# Local assets
 .assets/
