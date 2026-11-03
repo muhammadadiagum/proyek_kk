@@ -1,0 +1,7434 @@
+{
+ "suite": "pilot",
+ "budget": 10000,
+ "runs": [
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm1/n_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n",
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm1/n_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p02_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p02_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k1_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 1,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k1_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k3_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 3,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k3_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a1_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 1,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a1_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 0
+   },
+   "tag": "pm0p05_k5_a2_s0"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_repair",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05,
+    "repair_max_sessions": 5,
+    "repair_attempts": 2,
+    "swap_attempts": 1
+   },
+   "tag": "pm0p05_k5_a2_s1"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": "1/n"
+   },
+   "tag": "std_pm1/n"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.02
+   },
+   "tag": "std_pm0p02"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 2,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "ga_std",
+   "seed": 3,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2,
+    "pm": 0.05
+   },
+   "tag": "std_pm0p05"
+  },
+  {
+   "instance": "01_data/pilot/pilot45B.json",
+   "method": "greedy",
+   "seed": -1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2
+   },
+   "tag": "greedy"
+  },
+  {
+   "instance": "01_data/pilot/pilot45C.json",
+   "method": "greedy",
+   "seed": -1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2
+   },
+   "tag": "greedy"
+  },
+  {
+   "instance": "01_data/benchmark/comp13.json",
+   "method": "greedy",
+   "seed": -1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2
+   },
+   "tag": "greedy"
+  },
+  {
+   "instance": "01_data/benchmark/comp14.json",
+   "method": "greedy",
+   "seed": -1,
+   "cfg": {
+    "budget": 10000,
+    "pop_size": 50,
+    "pc": 0.8,
+    "elitism": 2
+   },
+   "tag": "greedy"
+  }
+ ]
+}

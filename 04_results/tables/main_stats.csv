@@ -1,0 +1,9 @@
+test,metric,comparison,n_units,statistic,p_value,p_holm,cliffs_delta,effect,median_std,median_repair
+wilcoxon_paired,H,ga_repair_vs_ga_std,21,0.0,0.003314452996697005,0.003314452996697005,-1.0,large,1.0,0.0
+wilcoxon_paired,P,ga_repair_vs_ga_std,21,0.0,0.00029247830381213256,0.00029247830381213256,-1.0,large,95.0,63.0
+friedman,H,greedy+ga_std+ga_repair,21,23.531914893616953,7.764430493506323e-06,7.764430493506323e-06,,,,
+friedman,P,greedy+ga_std+ga_repair,21,10.467532467532445,0.005333400595860106,0.005333400595860106,,,,
+posthoc_wilcoxon_holm,H,ga_std_vs_greedy,21,,0.0021916819945457977,0.006575045983637394,-1.0,large,11.0,1.0
+posthoc_wilcoxon_holm,H,ga_repair_vs_greedy,21,,0.002200340526906492,0.006575045983637394,-1.0,large,11.0,0.0
+posthoc_wilcoxon_holm,H,ga_repair_vs_ga_std,21,,0.003314452996697005,0.006575045983637394,-1.0,large,1.0,0.0
+mcnemar_exact,feasible,ga_repair_vs_ga_std,9,9.0,0.00390625,0.00390625,,,0.47619047619047616,0.9047619047619048

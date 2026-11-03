@@ -1,0 +1,2 @@
+method,instances,median_runtime_s,median_generations,median_repair_share,feasible_rate,median_H,median_P
+ga_repair,105,5.5282,45.5,0.7789,0.720952380952381,0.0,55.5

@@ -1,0 +1,719 @@
+{
+ "name": "syn30A",
+ "family": "synthetic",
+ "source_name": "syn30A",
+ "generator": {
+  "script": "02_code/generate_instances.py",
+  "seed": 1001,
+  "pattern": "A",
+  "pattern_extra_share": 0.6,
+  "n_sessions": 30,
+  "n_rooms": 2,
+  "n_teachers": 6,
+  "n_groups": 5,
+  "days": 5,
+  "periods_per_day": 6,
+  "capacities": [
+   50,
+   80
+  ],
+  "students_range": [
+   15,
+   80
+  ],
+  "construction": "base feasible schedule first, constraints added around it",
+  "base_attempt": 1
+ },
+ "n_days": 5,
+ "periods_per_day": 6,
+ "n_slots": 30,
+ "rooms": [
+  {
+   "id": "R1",
+   "capacity": 50
+  },
+  {
+   "id": "R2",
+   "capacity": 80
+  }
+ ],
+ "sessions": [
+  {
+   "id": "S001",
+   "course": "C001",
+   "teacher": "T00",
+   "groups": [
+    "G00"
+   ],
+   "students": 74,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S002",
+   "course": "C002",
+   "teacher": "T01",
+   "groups": [
+    "G01"
+   ],
+   "students": 55,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S003",
+   "course": "C003",
+   "teacher": "T02",
+   "groups": [
+    "G02"
+   ],
+   "students": 69,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S004",
+   "course": "C004",
+   "teacher": "T03",
+   "groups": [
+    "G03"
+   ],
+   "students": 16,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S005",
+   "course": "C005",
+   "teacher": "T04",
+   "groups": [
+    "G04"
+   ],
+   "students": 48,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S006",
+   "course": "C006",
+   "teacher": "T05",
+   "groups": [
+    "G00"
+   ],
+   "students": 27,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S007",
+   "course": "C007",
+   "teacher": "T00",
+   "groups": [
+    "G01"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S008",
+   "course": "C008",
+   "teacher": "T01",
+   "groups": [
+    "G02"
+   ],
+   "students": 71,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S009",
+   "course": "C009",
+   "teacher": "T02",
+   "groups": [
+    "G03"
+   ],
+   "students": 26,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S010",
+   "course": "C010",
+   "teacher": "T03",
+   "groups": [
+    "G04"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S011",
+   "course": "C011",
+   "teacher": "T04",
+   "groups": [
+    "G00"
+   ],
+   "students": 43,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S012",
+   "course": "C012",
+   "teacher": "T05",
+   "groups": [
+    "G01"
+   ],
+   "students": 28,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S013",
+   "course": "C013",
+   "teacher": "T00",
+   "groups": [
+    "G02"
+   ],
+   "students": 46,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S014",
+   "course": "C014",
+   "teacher": "T01",
+   "groups": [
+    "G03"
+   ],
+   "students": 56,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S015",
+   "course": "C015",
+   "teacher": "T02",
+   "groups": [
+    "G04"
+   ],
+   "students": 21,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S016",
+   "course": "C016",
+   "teacher": "T03",
+   "groups": [
+    "G00"
+   ],
+   "students": 21,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S017",
+   "course": "C017",
+   "teacher": "T04",
+   "groups": [
+    "G01"
+   ],
+   "students": 59,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S018",
+   "course": "C018",
+   "teacher": "T05",
+   "groups": [
+    "G02"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S019",
+   "course": "C019",
+   "teacher": "T00",
+   "groups": [
+    "G03"
+   ],
+   "students": 21,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S020",
+   "course": "C020",
+   "teacher": "T01",
+   "groups": [
+    "G04"
+   ],
+   "students": 26,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S021",
+   "course": "C021",
+   "teacher": "T02",
+   "groups": [
+    "G00"
+   ],
+   "students": 77,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S022",
+   "course": "C022",
+   "teacher": "T03",
+   "groups": [
+    "G01"
+   ],
+   "students": 23,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S023",
+   "course": "C023",
+   "teacher": "T04",
+   "groups": [
+    "G02"
+   ],
+   "students": 68,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S024",
+   "course": "C024",
+   "teacher": "T05",
+   "groups": [
+    "G03"
+   ],
+   "students": 79,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S025",
+   "course": "C025",
+   "teacher": "T00",
+   "groups": [
+    "G04"
+   ],
+   "students": 44,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S026",
+   "course": "C026",
+   "teacher": "T01",
+   "groups": [
+    "G00"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S027",
+   "course": "C027",
+   "teacher": "T02",
+   "groups": [
+    "G01"
+   ],
+   "students": 41,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S028",
+   "course": "C028",
+   "teacher": "T03",
+   "groups": [
+    "G02"
+   ],
+   "students": 31,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S029",
+   "course": "C029",
+   "teacher": "T04",
+   "groups": [
+    "G03"
+   ],
+   "students": 22,
+   "allowed_rooms": []
+  },
+  {
+   "id": "S030",
+   "course": "C030",
+   "teacher": "T05",
+   "groups": [
+    "G04"
+   ],
+   "students": 47,
+   "allowed_rooms": []
+  }
+ ],
+ "teachers": [
+  "T00",
+  "T01",
+  "T02",
+  "T03",
+  "T04",
+  "T05"
+ ],
+ "groups": [
+  "G00",
+  "G01",
+  "G02",
+  "G03",
+  "G04"
+ ],
+ "forbidden": [
+  [
+   0,
+   1,
+   2,
+   6,
+   11,
+   12,
+   21,
+   22,
+   27,
+   28
+  ],
+  [
+   1,
+   3,
+   4,
+   6,
+   11,
+   13,
+   16,
+   18,
+   24,
+   27
+  ],
+  [
+   0,
+   7,
+   10,
+   13,
+   14,
+   16,
+   18,
+   19,
+   20,
+   26
+  ],
+  [
+   6,
+   7,
+   14,
+   15,
+   21,
+   24,
+   25,
+   26,
+   28,
+   29
+  ],
+  [
+   4,
+   12,
+   13,
+   15,
+   19,
+   20,
+   22,
+   24,
+   25,
+   27
+  ],
+  [
+   1,
+   2,
+   4,
+   9,
+   18,
+   24,
+   25,
+   26,
+   27,
+   29
+  ],
+  [
+   0,
+   1,
+   2,
+   6,
+   11,
+   12,
+   21,
+   22,
+   27,
+   28
+  ],
+  [
+   1,
+   3,
+   4,
+   6,
+   11,
+   13,
+   16,
+   18,
+   24,
+   27
+  ],
+  [
+   0,
+   7,
+   10,
+   13,
+   14,
+   16,
+   18,
+   19,
+   20,
+   26
+  ],
+  [
+   6,
+   7,
+   14,
+   15,
+   21,
+   24,
+   25,
+   26,
+   28,
+   29
+  ],
+  [
+   4,
+   12,
+   13,
+   15,
+   19,
+   20,
+   22,
+   24,
+   25,
+   27
+  ],
+  [
+   1,
+   2,
+   4,
+   9,
+   18,
+   24,
+   25,
+   26,
+   27,
+   29
+  ],
+  [
+   0,
+   1,
+   2,
+   6,
+   11,
+   12,
+   21,
+   22,
+   27,
+   28
+  ],
+  [
+   1,
+   3,
+   4,
+   6,
+   11,
+   13,
+   16,
+   18,
+   24,
+   27
+  ],
+  [
+   0,
+   7,
+   10,
+   13,
+   14,
+   16,
+   18,
+   19,
+   20,
+   26
+  ],
+  [
+   6,
+   7,
+   14,
+   15,
+   21,
+   24,
+   25,
+   26,
+   28,
+   29
+  ],
+  [
+   4,
+   12,
+   13,
+   15,
+   19,
+   20,
+   22,
+   24,
+   25,
+   27
+  ],
+  [
+   1,
+   2,
+   4,
+   9,
+   18,
+   24,
+   25,
+   26,
+   27,
+   29
+  ],
+  [
+   0,
+   1,
+   2,
+   6,
+   11,
+   12,
+   21,
+   22,
+   27,
+   28
+  ],
+  [
+   1,
+   3,
+   4,
+   6,
+   11,
+   13,
+   16,
+   18,
+   24,
+   27
+  ],
+  [
+   0,
+   7,
+   10,
+   13,
+   14,
+   16,
+   18,
+   19,
+   20,
+   26
+  ],
+  [
+   6,
+   7,
+   14,
+   15,
+   21,
+   24,
+   25,
+   26,
+   28,
+   29
+  ],
+  [
+   4,
+   12,
+   13,
+   15,
+   19,
+   20,
+   22,
+   24,
+   25,
+   27
+  ],
+  [
+   1,
+   2,
+   4,
+   9,
+   18,
+   24,
+   25,
+   26,
+   27,
+   29
+  ],
+  [
+   0,
+   1,
+   2,
+   6,
+   11,
+   12,
+   21,
+   22,
+   27,
+   28
+  ],
+  [
+   1,
+   3,
+   4,
+   6,
+   11,
+   13,
+   16,
+   18,
+   24,
+   27
+  ],
+  [
+   0,
+   7,
+   10,
+   13,
+   14,
+   16,
+   18,
+   19,
+   20,
+   26
+  ],
+  [
+   6,
+   7,
+   14,
+   15,
+   21,
+   24,
+   25,
+   26,
+   28,
+   29
+  ],
+  [
+   4,
+   12,
+   13,
+   15,
+   19,
+   20,
+   22,
+   24,
+   25,
+   27
+  ],
+  [
+   1,
+   2,
+   4,
+   9,
+   18,
+   24,
+   25,
+   26,
+   27,
+   29
+  ]
+ ]
+}

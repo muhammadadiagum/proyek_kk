@@ -1,0 +1,2 @@
+{"host": {"hostname": "DESKTOP-IEJ08Q1", "cpu": "13th Gen Intel(R) Core(TM) i7-13650HX", "cores": "14", "mem_gb": 8.3, "platform": "Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.43", "python": "3.14.4", "numpy": "2.5.4"}, "suite": "pilot", "runs": 12, "spec": "00_config/jobs_pilot.json", "start": "20261029_051153"}
+{"done": 12, "elapsed_s": 30.1}

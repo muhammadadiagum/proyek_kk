@@ -1,0 +1,12 @@
+name,family,source_name,sessions,rooms,slots,days,periods_per_day,cells,fill_ratio,teachers,groups,forbidden_share,sessions_per_teacher,sessions_per_group,generator_seed,pattern,availability_share,base_P,base_room_changes
+syn30A,synthetic,syn30A,30,2,30,5,6,60,0.5,6,5,0.3333,5.0,6.0,1001,A,0.6667,9,0
+syn30B,synthetic,syn30B,30,2,30,5,6,60,0.5,6,5,0.5667,5.0,6.0,1002,B,0.4333,9,0
+syn30C,synthetic,syn30C,30,2,30,5,6,60,0.5,6,5,0.7667,5.0,6.0,1003,C,0.2333,13,0
+syn60A,synthetic,syn60A,60,4,30,5,6,120,0.5,12,10,0.3333,5.0,6.0,1004,A,0.6667,18,0
+syn60B,synthetic,syn60B,60,4,30,5,6,120,0.5,12,10,0.5667,5.0,6.0,1005,B,0.4333,21,0
+syn60C,synthetic,syn60C,60,4,30,5,6,120,0.5,12,10,0.7667,5.0,6.0,1006,C,0.2333,24,0
+syn90A,synthetic,syn90A,90,6,30,5,6,180,0.5,18,15,0.3333,5.0,6.0,1007,A,0.6667,26,0
+syn90B,synthetic,syn90B,90,6,30,5,6,180,0.5,18,15,0.5667,5.0,6.0,1008,B,0.4333,37,0
+syn90C,synthetic,syn90C,90,6,30,5,6,180,0.5,18,15,0.7667,5.0,6.0,1009,C,0.2333,41,0
+pilot45B,synthetic,pilot45B,45,3,30,5,6,90,0.5,9,8,0.5667,5.0,5.62,1010,B,0.4333,14,0
+pilot45C,synthetic,pilot45C,45,3,30,5,6,90,0.5,9,8,0.7667,5.0,5.62,1011,C,0.2333,14,0

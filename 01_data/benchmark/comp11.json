@@ -1,0 +1,2416 @@
+{
+ "name": "comp11",
+ "family": "benchmark",
+ "source_name": "Fis0506-2",
+ "n_days": 5,
+ "periods_per_day": 9,
+ "n_slots": 45,
+ "rooms": [
+  {
+   "id": "C",
+   "capacity": 100
+  },
+  {
+   "id": "F",
+   "capacity": 30
+  },
+  {
+   "id": "G",
+   "capacity": 20
+  },
+  {
+   "id": "O",
+   "capacity": 12
+  },
+  {
+   "id": "LUF2",
+   "capacity": 60
+  }
+ ],
+ "sessions": [
+  {
+   "id": "c0006#1",
+   "course": "c0006",
+   "teacher": "t000",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0006#2",
+   "course": "c0006",
+   "teacher": "t000",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0007#1",
+   "course": "c0007",
+   "teacher": "t001",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0007#2",
+   "course": "c0007",
+   "teacher": "t001",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#1",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#2",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#3",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#4",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#5",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#6",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#7",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#8",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0008#9",
+   "course": "c0008",
+   "teacher": "t002",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#1",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#2",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#3",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#4",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#5",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#6",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0009#7",
+   "course": "c0009",
+   "teacher": "t003",
+   "groups": [
+    "q000"
+   ],
+   "students": 75,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0017#1",
+   "course": "c0017",
+   "teacher": "t004",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0017#2",
+   "course": "c0017",
+   "teacher": "t004",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0017#3",
+   "course": "c0017",
+   "teacher": "t004",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#1",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#2",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#3",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#4",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#5",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#6",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#7",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#8",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0018#9",
+   "course": "c0018",
+   "teacher": "t005",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#1",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#2",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#3",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#4",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#5",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#6",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#7",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0019#8",
+   "course": "c0019",
+   "teacher": "t006",
+   "groups": [
+    "q001"
+   ],
+   "students": 65,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#1",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#2",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#3",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#4",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#5",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0079#6",
+   "course": "c0079",
+   "teacher": "t007",
+   "groups": [
+    "q002"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#1",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#2",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#3",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#4",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#5",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0081#6",
+   "course": "c0081",
+   "teacher": "t008",
+   "groups": [
+    "q005"
+   ],
+   "students": 8,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0082#1",
+   "course": "c0082",
+   "teacher": "t009",
+   "groups": [
+    "q006"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0082#2",
+   "course": "c0082",
+   "teacher": "t009",
+   "groups": [
+    "q006"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0082#3",
+   "course": "c0082",
+   "teacher": "t009",
+   "groups": [
+    "q006"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0082#4",
+   "course": "c0082",
+   "teacher": "t009",
+   "groups": [
+    "q006"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0082#5",
+   "course": "c0082",
+   "teacher": "t009",
+   "groups": [
+    "q006"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0083#1",
+   "course": "c0083",
+   "teacher": "t010",
+   "groups": [
+    "q004"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0083#2",
+   "course": "c0083",
+   "teacher": "t010",
+   "groups": [
+    "q004"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0083#3",
+   "course": "c0083",
+   "teacher": "t010",
+   "groups": [
+    "q004"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0083#4",
+   "course": "c0083",
+   "teacher": "t010",
+   "groups": [
+    "q004"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0083#5",
+   "course": "c0083",
+   "teacher": "t010",
+   "groups": [
+    "q004"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0085#1",
+   "course": "c0085",
+   "teacher": "t011",
+   "groups": [
+    "q003"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0085#2",
+   "course": "c0085",
+   "teacher": "t011",
+   "groups": [
+    "q003"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0085#3",
+   "course": "c0085",
+   "teacher": "t011",
+   "groups": [
+    "q003"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0085#4",
+   "course": "c0085",
+   "teacher": "t011",
+   "groups": [
+    "q003"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0085#5",
+   "course": "c0085",
+   "teacher": "t011",
+   "groups": [
+    "q003"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#1",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#2",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#3",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#4",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#5",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0026#6",
+   "course": "c0026",
+   "teacher": "t012",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#1",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#2",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#3",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#4",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#5",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0027#6",
+   "course": "c0027",
+   "teacher": "t013",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0028#1",
+   "course": "c0028",
+   "teacher": "t014",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0028#2",
+   "course": "c0028",
+   "teacher": "t014",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0028#3",
+   "course": "c0028",
+   "teacher": "t014",
+   "groups": [
+    "q002",
+    "q003",
+    "q004",
+    "q005",
+    "q006"
+   ],
+   "students": 52,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#1",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#2",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#3",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#4",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#5",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0034#6",
+   "course": "c0034",
+   "teacher": "t015",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#1",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#2",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#3",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#4",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#5",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0036#6",
+   "course": "c0036",
+   "teacher": "t016",
+   "groups": [
+    "q009"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#1",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#2",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#3",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#4",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#5",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0038#6",
+   "course": "c0038",
+   "teacher": "t017",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0040#1",
+   "course": "c0040",
+   "teacher": "t018",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0040#2",
+   "course": "c0040",
+   "teacher": "t018",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0040#3",
+   "course": "c0040",
+   "teacher": "t018",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0040#4",
+   "course": "c0040",
+   "teacher": "t018",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0040#5",
+   "course": "c0040",
+   "teacher": "t018",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0042#1",
+   "course": "c0042",
+   "teacher": "t001",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0042#2",
+   "course": "c0042",
+   "teacher": "t001",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0042#3",
+   "course": "c0042",
+   "teacher": "t001",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0042#4",
+   "course": "c0042",
+   "teacher": "t001",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0042#5",
+   "course": "c0042",
+   "teacher": "t001",
+   "groups": [
+    "q008"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0044#1",
+   "course": "c0044",
+   "teacher": "t002",
+   "groups": [
+    "q007"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0044#2",
+   "course": "c0044",
+   "teacher": "t002",
+   "groups": [
+    "q007"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0044#3",
+   "course": "c0044",
+   "teacher": "t002",
+   "groups": [
+    "q007"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0044#4",
+   "course": "c0044",
+   "teacher": "t002",
+   "groups": [
+    "q007"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0044#5",
+   "course": "c0044",
+   "teacher": "t002",
+   "groups": [
+    "q007"
+   ],
+   "students": 11,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#1",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#2",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#3",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#4",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#5",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0045#6",
+   "course": "c0045",
+   "teacher": "t019",
+   "groups": [
+    "q007",
+    "q008",
+    "q009"
+   ],
+   "students": 33,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#1",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#2",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#3",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#4",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#5",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0107#6",
+   "course": "c0107",
+   "teacher": "t020",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#1",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#2",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#3",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#4",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#5",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#6",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#7",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#8",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0108#9",
+   "course": "c0108",
+   "teacher": "t004",
+   "groups": [
+    "q010"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0109#1",
+   "course": "c0109",
+   "teacher": "t021",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0109#2",
+   "course": "c0109",
+   "teacher": "t021",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0109#3",
+   "course": "c0109",
+   "teacher": "t021",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0109#4",
+   "course": "c0109",
+   "teacher": "t021",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#1",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#2",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#3",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#4",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#5",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#6",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0110#7",
+   "course": "c0110",
+   "teacher": "t000",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0111#1",
+   "course": "c0111",
+   "teacher": "t022",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0111#2",
+   "course": "c0111",
+   "teacher": "t022",
+   "groups": [
+    "q012"
+   ],
+   "students": 25,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0113#1",
+   "course": "c0113",
+   "teacher": "t003",
+   "groups": [
+    "q012"
+   ],
+   "students": 50,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0113#2",
+   "course": "c0113",
+   "teacher": "t003",
+   "groups": [
+    "q012"
+   ],
+   "students": 50,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0113#3",
+   "course": "c0113",
+   "teacher": "t003",
+   "groups": [
+    "q012"
+   ],
+   "students": 50,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#1",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#2",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#3",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#4",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#5",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0115#6",
+   "course": "c0115",
+   "teacher": "t003",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0116#1",
+   "course": "c0116",
+   "teacher": "t023",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0116#2",
+   "course": "c0116",
+   "teacher": "t023",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0116#3",
+   "course": "c0116",
+   "teacher": "t023",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  },
+  {
+   "id": "c0116#4",
+   "course": "c0116",
+   "teacher": "t023",
+   "groups": [
+    "q011"
+   ],
+   "students": 20,
+   "allowed_rooms": []
+  }
+ ],
+ "teachers": [
+  "t000",
+  "t001",
+  "t002",
+  "t003",
+  "t004",
+  "t005",
+  "t006",
+  "t007",
+  "t008",
+  "t009",
+  "t010",
+  "t011",
+  "t012",
+  "t013",
+  "t014",
+  "t015",
+  "t016",
+  "t017",
+  "t018",
+  "t019",
+  "t020",
+  "t021",
+  "t022",
+  "t023"
+ ],
+ "groups": [
+  "q000",
+  "q001",
+  "q002",
+  "q003",
+  "q004",
+  "q005",
+  "q006",
+  "q007",
+  "q008",
+  "q009",
+  "q010",
+  "q011",
+  "q012"
+ ],
+ "forbidden": [
+  [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [
+   20,
+   21,
+   22,
+   23,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+   7,
+   16,
+   25,
+   34,
+   43,
+   8,
+   17,
+   26,
+   35,
+   44
+  ],
+  [
+   7,
+   16,
+   25,
+   34,
+   43,
+   8,
+   17,
+   26,
+   35,
+   44
+  ],
+  [
+   7,
+   16,
+   25,
+   34,
+   43,
+   8,
+   17,
+   26,
+   35,
+   44
+  ],
+  [
+   7,
+   16,
+   25,
+   34,
+   43,
+   8,
+   17,
+   26,
+   35,
+   44
+  ],
+  [
+   7,
+   16,
+   25,
+   34,
+   43,
+   8,
+   17,
+   26,
+   35,
+   44
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [
+   29,
+   30,
+   31,
+   32,
+   38,
+   39,
+   40,
+   41
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+   0,
+   9,
+   18,
+   27,
+   36,
+   1,
+   10,
+   19,
+   28,
+   37,
+   2,
+   11,
+   20,
+   29,
+   38,
+   3,
+   12,
+   21,
+   30,
+   39
+  ],
+  [
+   0,
+   9,
+   18,
+   27,
+   36,
+   1,
+   10,
+   19,
+   28,
+   37,
+   2,
+   11,
+   20,
+   29,
+   38,
+   3,
+   12,
+   21,
+   30,
+   39
+  ],
+  [
+   0,
+   9,
+   18,
+   27,
+   36,
+   1,
+   10,
+   19,
+   28,
+   37,
+   2,
+   11,
+   20,
+   29,
+   38,
+   3,
+   12,
+   21,
+   30,
+   39
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   3,
+   12,
+   21,
+   30,
+   39,
+   4,
+   13,
+   22,
+   31,
+   40,
+   5,
+   14,
+   23,
+   32,
+   41
+  ],
+  [
+   0,
+   1,
+   43,
+   44
+  ],
+  [
+   0,
+   1,
+   43,
+   44
+  ],
+  [
+   0,
+   1,
+   43,
+   44
+  ],
+  [
+   0,
+   1,
+   43,
+   44
+  ]
+ ]
+}

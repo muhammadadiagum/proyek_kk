@@ -1,0 +1,511 @@
+[
+ {
+  "doi": "10.1126/science.280.5373.75",
+  "error": null,
+  "oa_error": "HTTP Error 404: Not Found",
+  "title": "No free lunch theorems for optimization",
+  "year": 1997,
+  "venue": "Science",
+  "volume": "280",
+  "issue": "5333",
+  "page": "75-78",
+  "type": "journal-article",
+  "authors": [
+   "Wolpert, D. H.",
+   "Macready, W. G."
+  ]
+ },
+ {
+  "doi": "10.1016/s0045-7825(01)00323-1",
+  "title": "Theoretical and numerical constraint-handling techniques used with evolutionary algorithms: a survey of the state of the art",
+  "authors": [
+   "Coello Coello, Carlos A"
+  ],
+  "year": 2002,
+  "venue": "Computer Methods in Applied Mechanics and Engineering",
+  "volume": "191",
+  "issue": "11-12",
+  "page": "1245-1287",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Theoretical and numerical constraint-handling techniques used with evolutionary algorithms: a survey of the state of the art",
+  "oa_year": 2002,
+  "cited_by": 2350,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1007/978-3-540-45157-0_17",
+  "title": "Multi-neighbourhood Local Search with Application to Course Timetabling",
+  "authors": [
+   "Di Gaspero, Luca",
+   "Schaerf, Andrea"
+  ],
+  "year": 2003,
+  "venue": "Lecture Notes in Computer Science",
+  "volume": null,
+  "issue": null,
+  "page": "262-275",
+  "type": "book-chapter",
+  "publisher": "Springer Berlin Heidelberg",
+  "oa_title": "Multi-neighbourhood Local Search with Application to Course Timetabling",
+  "oa_year": 2003,
+  "cited_by": 64,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1007/s10479-009-0644-y",
+  "title": "ITC2007 solver description: a hybrid approach",
+  "authors": [
+   "M\u00fcller, Tom\u00e1\u0161"
+  ],
+  "year": 2009,
+  "venue": "Annals of Operations Research",
+  "volume": "172",
+  "issue": "1",
+  "page": "429-446",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "ITC2007 solver description: a hybrid approach",
+  "oa_year": 2009,
+  "cited_by": 150,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1007/s10479-010-0703-4",
+  "title": "Applying the threshold accepting metaheuristic to\u00a0curriculum based course timetabling",
+  "authors": [
+   "Geiger, Martin Josef"
+  ],
+  "year": 2010,
+  "venue": "Annals of Operations Research",
+  "volume": "194",
+  "issue": "1",
+  "page": "189-202",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "Applying the threshold accepting metaheuristic to curriculum based course timetabling",
+  "oa_year": 2010,
+  "cited_by": 31,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1007/s11750-015-0366-z",
+  "title": "An overview of curriculum-based course timetabling",
+  "authors": [
+   "Bettinelli, Andrea",
+   "Cacchiani, Valentina",
+   "Roberti, Roberto",
+   "Toth, Paolo"
+  ],
+  "year": 2015,
+  "venue": "TOP",
+  "volume": "23",
+  "issue": "2",
+  "page": "313-349",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "An overview of curriculum-based course timetabling",
+  "oa_year": 2015,
+  "cited_by": 84,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1016/j.orp.2016.09.002",
+  "title": "The irace package: Iterated racing for automatic algorithm configuration",
+  "authors": [
+   "L\u00f3pez-Ib\u00e1\u00f1ez, Manuel",
+   "Dubois-Lacoste, J\u00e9r\u00e9mie",
+   "P\u00e9rez C\u00e1ceres, Leslie",
+   "Birattari, Mauro",
+   "St\u00fctzle, Thomas"
+  ],
+  "year": 2016,
+  "venue": "Operations Research Perspectives",
+  "volume": "3",
+  "issue": null,
+  "page": "43-58",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "The irace package: Iterated racing for automatic algorithm configuration",
+  "oa_year": 2016,
+  "cited_by": 1756,
+  "abstract": "Modern optimization algorithms typically require the setting of a large number of parameters to optimize their performance. The immediate goal of automatic algorithm configuration is to find, automatically, the best parameter settings of an optimizer. Ultimately, automatic algorithm configuration has the potential to lead to new design paradigms for optimization software. The irace package is a software package that implements a number of automatic configuration procedures. In particular, it offers iterated racing procedures, which have been used successfully to automatically configure various state-of-the-art algorithms. The iterated racing procedures implemented in irace include the iterated F-race algorithm and several extensions and improvements over it. In this paper, we describe the rationale underlying the iterated racing procedures and introduce a number of recent extensions. Among these, we introduce a restart mechanism to avoid premature convergence, the use of truncated sampling distributions to handle correctly parameter bounds, and an elitist racing procedure for ensuring that the best configurations returned are also those evaluated in the highest number of training i"
+ },
+ {
+  "doi": "10.1063/5.0090572",
+  "title": "A comparator-based constraint handling technique for evolutionary algorithms",
+  "authors": [
+   "Takami, Hikaru",
+   "Obayashi, Shigeru"
+  ],
+  "year": 2022,
+  "venue": "AIP Advances",
+  "volume": "12",
+  "issue": "5",
+  "page": null,
+  "type": "journal-article",
+  "publisher": "AIP Publishing",
+  "oa_title": "A comparator-based constraint handling technique for evolutionary algorithms",
+  "oa_year": 2022,
+  "cited_by": 3,
+  "abstract": "Constraint handling is a key task for the successful optimization of design parameters in industrial design problems. This paper proposes a comparator-based constraint handling technique, called the More Less-Violations Method (MLVM), for solving real constrained optimization problems using evolutionary algorithms. The structure of the MLVM is simple and it can easily be integrated into conventional evolutionary algorithms. In the proposed method, constraint weights represent the level of importance of each constraint, enabling evolutionary compliance prioritization. Moreover, an acceptable region formed by the constraint tolerances allows trade-offs between objectives and constraints while preserving diverse solutions and improving optimization performance. These elements enable the appropriate design of industrial optimization problems. An application of this method to problems without constraint tolerances is also proposed. The JAXA/Mazda benchmark problem, developed on a real-world constrained design optimization dataset, is used to assess the performance of the MLVM. The results indicate that the MLVM realizes encouraging optimization performance."
+ },
+ {
+  "doi": "10.3390/math10091611",
+  "title": "A Comprehensive Comparison of the Performance of Metaheuristic Algorithms in Neural Network Training for Nonlinear System Identification",
+  "authors": [
+   "Kaya, Ebubekir"
+  ],
+  "year": 2022,
+  "venue": "Mathematics",
+  "volume": "10",
+  "issue": "9",
+  "page": "1611",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "oa_title": "A Comprehensive Comparison of the Performance of Metaheuristic Algorithms in Neural Network Training for Nonlinear System Identification",
+  "oa_year": 2022,
+  "cited_by": 13,
+  "abstract": "Many problems in daily life exhibit nonlinear behavior. Therefore, it is important to solve nonlinear problems. These problems are complex and difficult due to their nonlinear nature. It is seen in the literature that different artificial intelligence techniques are used to solve these problems. One of the most important of these techniques is artificial neural networks. Obtaining successful results with an artificial neural network depends on its training process. In other words, it should be trained with a good training algorithm. Especially, metaheuristic algorithms are frequently used in artificial neural network training due to their advantages. In this study, for the first time, the performance of sixteen metaheuristic algorithms in artificial neural network training for the identification of nonlinear systems is analyzed. It is aimed to determine the most effective metaheuristic neural network training algorithms. The metaheuristic algorithms are examined in terms of solution quality and convergence speed. In the applications, six nonlinear systems are used. The mean-squared error (MSE) is utilized as the error metric. The best mean training error values obtained for six non"
+ },
+ {
+  "doi": "10.2174/2666782701666220610145137",
+  "title": "A Variant Genetic Algorithm for a Specific Examination Timetabling\nProblem in a Japanese University",
+  "authors": [
+   "Li, Jiawei",
+   "Gonsalves, Tad"
+  ],
+  "year": 2022,
+  "venue": "The Chinese Journal of Artificial Intelligence",
+  "volume": "1",
+  "issue": "2",
+  "page": null,
+  "type": "journal-article",
+  "publisher": "Bentham Science Publishers Ltd.",
+  "oa_title": "A Variant Genetic Algorithm for a Specific Examination Timetabling Problem in a Japanese University",
+  "oa_year": 2022,
+  "cited_by": 0,
+  "abstract": "Background: Examination Timetabling Problem which tries to find an optimal examination schedule for schools, colleges, and universities, is a well-known NP-hard problem. This paper presents a Genetic Algorithm variant approach to solve a specific examination timetabling problem common in Japanese colleges and universities. Methods: The proposed algorithm uses direct chromosome representation Genetic Algorithm and implements constraint-based initialization and constraint-based crossover operations to satisfy the hard and soft constraints. An Island model with varying crossover and mutation probabilities and an improvement approach called pre-training are applied to the algorithm to further improve the result quality. Results: The proposed model is tested on synthetic as well as real datasets obtained from Sophia University, Japan and shows acceptable results. The algorithm was fine-tuned with different penalty points combinations and improvement combinations. Conclusion: The comparison results support the idea that the initial population pre-training and the island model are effective approaches to improve the result quality of the proposed model. Although the current island model u"
+ },
+ {
+  "doi": "10.3390/axioms12080720",
+  "title": "An Exploration and Exploitation-Based Metaheuristic Approach for University Course Timetabling Problems",
+  "authors": [
+   "Badoni, Rakesh P.",
+   "Sahoo, Jayakrushna",
+   "Srivastava, Shwetabh",
+   "Mann, Mukesh",
+   "Gupta, D. K.",
+   "Verma, Swati",
+   "Stanimirovi\u0107, Predrag S.",
+   "Kazakovtsev, Lev A.",
+   "Karaba\u0161evi\u0107, Darjan"
+  ],
+  "year": 2023,
+  "venue": "Axioms",
+  "volume": "12",
+  "issue": "8",
+  "page": "720",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "oa_title": "An Exploration and Exploitation-Based Metaheuristic Approach for University Course Timetabling Problems",
+  "oa_year": 2023,
+  "cited_by": 8,
+  "abstract": "The university course timetable problem (UCTP) is known to be NP-hard, with solution complexity growing exponentially with the problem size. This paper introduces an algorithm that effectively tackles UCTPs by employing a combination of exploration and exploitation strategies. The algorithm comprises two main components. Firstly, it utilizes a genetic algorithm (GA) to explore the search space and discover a solution within the global optimum region. Secondly, it enhances the solution by exploiting the region using an iterated local search (ILS) algorithm. The algorithm is tested on two common variants of UCTP: the post-enrollment-based course timetable problem (PE-CTP) and the curriculum-based course timetable problem (CB-CTP). The computational results demonstrate that the proposed algorithm yields competitive outcomes when compared empirically against other existing algorithms. Furthermore, a t-test comparison with state-of-the-art algorithms is conducted. The experimental findings also highlight that the hybrid approach effectively overcomes the limitation of local optima, which is encountered when solely employing GA in conjunction with local search."
+ },
+ {
+  "doi": "10.1016/j.iswa.2023.200253",
+  "title": "Meta-heuristic approaches for the University Course Timetabling Problem",
+  "authors": [
+   "Abdipoor, Sina",
+   "Yaakob, Razali",
+   "Goh, Say Leng",
+   "Abdullah, Salwani"
+  ],
+  "year": 2023,
+  "venue": "Intelligent Systems with Applications",
+  "volume": "19",
+  "issue": null,
+  "page": "200253",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Meta-heuristic approaches for the University Course Timetabling Problem",
+  "oa_year": 2023,
+  "cited_by": 37,
+  "abstract": "Course timetabling is an ongoing challenge that universities face all around the world. This combinatorial optimization task involves allocating a set of events into finite time slots and rooms while attempting to satisfy a set of predefined constraints. Given the high number of constraints and the large solution space to be explored, the University Course Timetabling Problem (UCTP) is classified as an NP-hard problem. Meta-heuristic approaches have been commonly applied to this problem in the literature and have achieved high performance on benchmark datasets. This survey paper provides a comprehensive and systematic review of these approaches in the UCTP. It reviews, summarizes, and categorizes the approaches, and introduces a classification for hybrid meta-heuristic methods. Furthermore, it critically analyzes the benefits and limitations of the methods. It also presents challenges, gaps, and possible future work."
+ },
+ {
+  "doi": "10.1007/s10479-023-05325-2",
+  "title": "A matheuristic for customized multi-level multi-criteria university timetabling",
+  "authors": [
+   "Dunke, Fabian",
+   "Nickel, Stefan"
+  ],
+  "year": 2023,
+  "venue": "Annals of Operations Research",
+  "volume": "328",
+  "issue": "2",
+  "page": "1313-1348",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "A matheuristic for customized multi-level multi-criteria university timetabling",
+  "oa_year": 2023,
+  "cited_by": 17,
+  "abstract": "Course timetables are the organizational foundation of a university's educational program. While students and lecturers perceive timetable quality individually according to their preferences, there are also collective criteria derived normatively such as balanced workloads or idle time avoidance. A recent challenge and opportunity in curriculum-based timetabling consists of customizing timetables with respect to individual student preferences and with respect to integrating online courses as part of modern course programs or in reaction to flexibility requirements as posed in pandemic situations. Curricula consisting of (large) lectures and (small) tutorials further open the possibility for optimizing not only the lecture and tutorial plan for all students but also the assignments of individual students to tutorial slots. In this paper, we develop a multi-level planning process for university timetabling: On the tactical level, a lecture and tutorial plan is determined for a set of study programs; on the operational level, individual timetables are generated for each student interlacing the lecture plan through a selection of tutorials from the tutorial plan favoring individual pre"
+ },
+ {
+  "doi": "10.1007/s10100-024-00923-2",
+  "title": "Curriculum-based university course timetabling considering individual course of studies",
+  "authors": [
+   "Steiner, Elmar",
+   "Pferschy, Ulrich",
+   "Schaerf, Andrea"
+  ],
+  "year": 2024,
+  "venue": "Central European Journal of Operations Research",
+  "volume": "33",
+  "issue": "1",
+  "page": "277-314",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "Curriculum-based university course timetabling considering individual course of studies",
+  "oa_year": 2024,
+  "cited_by": 16,
+  "abstract": "Abstract We consider a complex university timetabling problem arising in a four-year study program of teacher education where every student has to choose two subjects. Since any combination of two subjects is feasible, the goal of designing a collision-free timetable for every student seems to be unreachable. However, the task becomes more tractable because parallel groups are offered for most courses, i.e. sectioning of students takes place. Difficulties arise from the individual progress of students who often follow neither the prescribed term of each course nor the prescribed ordering of courses. Under these and other conditions, an optimized timetable can be determined by a multi-stage process, adjusted to the estimated student numbers and their past achievements. Some of the features encountered in this planning task were also part of the well-known ITC-2019 timetabling competition, while others constitute new aspects. After moving main lectures into a regular time grid with minimal changes concerning the previously existing plan, the task of finding a timetable for all lectures with parallel groups is modeled as an integer linear program. At a later time, students with their "
+ },
+ {
+  "doi": "10.5505/pajes.2023.00483",
+  "title": "A simulated annealing algorithm for the faculty-level university course timetabling problem",
+  "authors": [
+   "Erdo\u011fan Akbulut, Hatice",
+   "\u00d6z\u00e7elik, Feri\u015ftah",
+   "Sara\u00e7, Tu\u011fba"
+  ],
+  "year": 2024,
+  "venue": "Pamukkale University Journal of Engineering Sciences",
+  "volume": "30",
+  "issue": "1",
+  "page": "17-30",
+  "type": "journal-article",
+  "publisher": "Pamukkale University",
+  "oa_title": "A simulated annealing algorithm for the faculty-level university course timetabling problem",
+  "oa_year": 2024,
+  "cited_by": 4,
+  "abstract": "In this study, faculty-level university course timetabling problem with double major and minor program constraints where classrooms are shared with several faculties is taken into account. This is the first study considering all these constraints together. A goal programming model is proposed to solve the considered problem. Since it is not possible to find a feasible solution for large-size problems with the proposed model in a time limit, a simulated annealing algorithm is developed. The performance of the proposed solution methods is tested by using randomly generated test problems. In addition, a case study is performed at the engineering faculty of a private university. Computational results show the success of the proposed simulated annealing algorithm to solve large-sized problems. An 83% improvement was achieved with the proposed algorithm for the real-life problem."
+ },
+ {
+  "doi": "10.1016/j.procs.2024.03.177",
+  "title": "Development of a Web-based Course Timetabling System based on an Enhanced Genetic Algorithm",
+  "authors": [
+   "Romaguera, Dexter",
+   "Plender-Nabas, Jenie",
+   "Matias, Junrie",
+   "Austero, Lea"
+  ],
+  "year": 2024,
+  "venue": "Procedia Computer Science",
+  "volume": "234",
+  "issue": null,
+  "page": "1714-1721",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Development of a Web-based Course Timetabling System based on an Enhanced Genetic Algorithm",
+  "oa_year": 2024,
+  "cited_by": 7,
+  "abstract": "This paper presents the development of a web-based course timetabling system based on an enhanced genetic algorithm. The enhanced method utilizes a heuristic mutation which concentrates on mutating the infeasible genes to improve the algorithms' exploration and exploitation capability. The method was implemented using a free and open-source application and can be accessed online. Based on the actual datasets from Caraga State University, the enhanced method optimized the use of classroom resources by using a smaller number of rooms. The generated timetable is more efficient as it satisfies not just hard constraints, which are conflicting schedules, but also soft constraints."
+ },
+ {
+  "doi": "10.1016/j.procs.2024.03.043",
+  "title": "Generic University Examination Timetabling System with Steepest-Ascent Hill Climbing Hyper-heuristic Algorithm",
+  "authors": [
+   "Muklason, Ahmad",
+   "Pratama, Ezra Juninho",
+   "Premananda, I Gusti Agung"
+  ],
+  "year": 2024,
+  "venue": "Procedia Computer Science",
+  "volume": "234",
+  "issue": null,
+  "page": "584-591",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Generic University Examination Timetabling System with Steepest-Ascent Hill Climbing Hyper-heuristic Algorithm",
+  "oa_year": 2024,
+  "cited_by": 3,
+  "abstract": "A common problem encountered in various educational institutions is the scheduling of exams, which involves allocating resources such as time and space, as well as considering student schedules within defined hard and soft constraints. This scheduling problem falls under the category of NP-Hard Problems, making it challenging to solve perfectly, and manual scheduling becomes even more difficult. One approach commonly used to address this issue is the Hyper-heuristic method, which generally provides above-average solutions. In this study, the Steepest-Ascent Hill Climbing algorithm is employed to optimize the initial solution generated by the Graph Coloring algorithm. The optimization process, using the Steepest-Ascent Hill Climbing algorithm, was tested over data set from Department of Information Systems, ITS University. The results showed improved timetabling compared to the Simple Hill Climbing algorithm, with lower penalty values. After 10,000 iterations, Steepest-Ascent Hill Climbing achieved an average penalty value of 2.783, whereas Simple Hill Climbing resulted in an average penalty value of 3.943."
+ },
+ {
+  "doi": "10.1007/s10479-024-06285-x",
+  "title": "Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021",
+  "authors": [
+   "Premananda, I. Gusti Agung",
+   "Tjahyanto, Aris",
+   "Mukhlason, Ahmad"
+  ],
+  "year": 2024,
+  "venue": "Annals of Operations Research",
+  "volume": "343",
+  "issue": "1",
+  "page": "411-427",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021",
+  "oa_year": 2024,
+  "cited_by": 5,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1016/j.swevo.2024.101493",
+  "title": "Reliable network-level pavement maintenance budget allocation: Algorithm selection and parameter tuning matter",
+  "authors": [
+   "Mahpour, Amirreza",
+   "El-Diraby, Tamer"
+  ],
+  "year": 2024,
+  "venue": "Swarm and Evolutionary Computation",
+  "volume": "86",
+  "issue": null,
+  "page": "101493",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Reliable network-level pavement maintenance budget allocation: Algorithm selection and parameter tuning matter",
+  "oa_year": 2024,
+  "cited_by": 5,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1007/s00500-025-10432-2",
+  "title": "A surrogate archive assisted multi-objective evolutionary algorithm under limited computational budget",
+  "authors": [
+   "Wang, Le",
+   "Fan, Qinqin",
+   "Yan, Xuefeng"
+  ],
+  "year": 2025,
+  "venue": "Soft Computing",
+  "volume": "29",
+  "issue": "2",
+  "page": "723-753",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "oa_title": "A surrogate archive assisted multi-objective evolutionary algorithm under limited computational budget",
+  "oa_year": 2025,
+  "cited_by": 2,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1016/j.cor.2026.107621",
+  "title": "Revisiting local search for Curriculum-Based Course Timetabling",
+  "authors": [
+   "Ceschia, Sara",
+   "Da Ros, Francesca",
+   "Di Gaspero, Luca",
+   "Schaerf, Andrea"
+  ],
+  "year": 2026,
+  "venue": "Computers &amp; Operations Research",
+  "volume": "195",
+  "issue": null,
+  "page": "107621",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "Revisiting local search for Curriculum-Based Course Timetabling",
+  "oa_year": 2026,
+  "cited_by": 0,
+  "abstract": "Curriculum-Based Course Timetabling (CB-CTT) is a well-established benchmark problem in educational timetabling, with numerous real and synthetic datasets. Despite its long history of algorithmic developments, designing search methods that work effectively across diverse datasets under time limits remains challenging. In this paper, we focus on local search and, after a thorough analysis of all neighborhood structures reported in the literature, we propose an improved Simulated Annealing (SA) algorithm driven by an extended version of the classic LectureMove neighborhood, called LectureKick , that allows flexible lecture relocation while preserving feasibility. The neighborhood is further enriched with several sampling biases specifically designed to address the soft constraints of CB-CTT, while the overall behavior of the SA is regulated by a cut-off mechanism embedded in the cooling schedule. The method involves numerous parameters, both for the SA schedule and for the neighborhood biases, which are rigorously tuned on a large artificial dataset. The final algorithm is subsequently evaluated on the available benchmarks, including the \u201cstandard\u201d ITC 2007 comp dataset, under the or"
+ },
+ {
+  "doi": "10.1109/tevc.2026.3737767",
+  "title": "A Budget-Aware Feasibility-Guided Surrogate-Assisted Evolutionary Algorithm for Energy-Aware Distributed Hybrid Flow Shop Scheduling",
+  "authors": [
+   "Zhao, Fuqing",
+   "Sun, Nijiaer",
+   "Wang, Ling",
+   "Sang, Hongyan"
+  ],
+  "year": 2026,
+  "venue": "IEEE Transactions on Evolutionary Computation",
+  "volume": null,
+  "issue": null,
+  "page": "1-1",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "oa_title": "A Budget-Aware Feasibility-Guided Surrogate-Assisted Evolutionary Algorithm for Energy-Aware Distributed Hybrid Flow Shop Scheduling",
+  "oa_year": 2026,
+  "cited_by": 0,
+  "abstract": ""
+ },
+ {
+  "doi": "10.3390/sym18040641",
+  "title": "An Integrated Constrained Multi-Objective Evolutionary Algorithm with Feasibility-Driven Repair and Adaptive Parameter Control for Narrow-Band Optimization",
+  "authors": [
+   "Zhang, Hao",
+   "Ku, Junhua",
+   "Zhao, Jie"
+  ],
+  "year": 2026,
+  "venue": "Symmetry",
+  "volume": "18",
+  "issue": "4",
+  "page": "641",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "oa_title": "An Integrated Constrained Multi-Objective Evolutionary Algorithm with Feasibility-Driven Repair and Adaptive Parameter Control for Narrow-Band Optimization",
+  "oa_year": 2026,
+  "cited_by": 0,
+  "abstract": "Constrained multi-objective optimization (CMOP) is especially difficult when the feasible region is very narrow. In this study, we introduce Integrated-CMOEA, a clear and structured framework that uses structure-aware seeding, a projection-based repair operator, dual-population evolution, adaptive parameter control, and reference vector archiving. For the DC2-DTLZ1 problem, the repair step is handled as a continuous one-dimensional root-finding problem along a feasible search ray. This method provides clear rules for restoring feasibility when a valid bracket is found. Our results show that the method quickly finds and maintains strict feasibility and produces a well-distributed set of solutions near the constrained Pareto front. In tests with five independent runs, Integrated-CMOEA outperformed four other CMOEAs in both IGD and hypervolume. An ablation study shows that deterministic repair is the main reason for its strong performance on this narrow-band benchmark. Integrated-CMOEA is a reliable framework for analytically structured narrow-band CMOPs, though it has some limits when applied more broadly."
+ },
+ {
+  "doi": "10.1016/j.swevo.2026.102303",
+  "title": "A multitype constraint handling evolutionary algorithm for constrained multiobjective optimization problems",
+  "authors": [
+   "Rao, Honghua",
+   "Jia, Heming"
+  ],
+  "year": 2026,
+  "venue": "Swarm and Evolutionary Computation",
+  "volume": "101",
+  "issue": null,
+  "page": "102303",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_title": "A multitype constraint handling evolutionary algorithm for constrained multiobjective optimization problems",
+  "oa_year": 2026,
+  "cited_by": 7,
+  "abstract": ""
+ },
+ {
+  "doi": "10.1016/j.ejor.2026.10.033",
+  "title": "Adaptive threshold iterated local search: An adaptive self-parameterizing algorithm for solving sports timetabling problems of the international timetabling competition 2021",
+  "authors": [
+   "Muklason, Ahmad",
+   "Premananda, I Gusti Agung"
+  ],
+  "year": 2026,
+  "venue": "European Journal of Operational Research",
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "oa_error": "HTTP Error 404: Not Found"
+ },
+ {
+  "doi": "10.5220/0014437700004052",
+  "title": "Adaptive Penalty-Guided VND with CP-SAT for Curriculum-Based Course Timetabling",
+  "authors": [
+   "Nguyen, Tam"
+  ],
+  "year": 2026,
+  "venue": "Proceedings of the 18th International Conference on Agents and Artificial Intelligence",
+  "volume": null,
+  "issue": null,
+  "page": "3398-3405",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "oa_title": "Adaptive Penalty-Guided VND with CP-SAT for Curriculum-Based Course Timetabling",
+  "oa_year": 2026,
+  "cited_by": 0,
+  "abstract": ""
+ }
+]

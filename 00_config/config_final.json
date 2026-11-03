@@ -1,0 +1,14 @@
+{
+ "pm": "1/n",
+ "repair_max_sessions": 5,
+ "repair_attempts": 1,
+ "swap_attempts": 0,
+ "pm_std": "1/n",
+ "budget": 10000,
+ "pop_size": 50,
+ "pc": 0.8,
+ "elitism": 2,
+ "seed_mode": "greedy",
+ "selected_from": "03_experiments/raw/pilot.jsonl",
+ "rule": "max feasible_frac, min median_H, min median_P, min repair_share"
+}
