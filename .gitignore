@@ -21,3 +21,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Aset lokal (materi tugas, tidak untuk repo)
+.assets/
